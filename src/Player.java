@@ -28,18 +28,18 @@ public class Player {
 
 
 
-//    public void setCorrectQuizNum(int correctQuizNum) {
-//
-//        this.correctQuizNum = correctQuizNum;
-//
-//    }
+    public void setCorrectQuizNum(int correctQuizNum) {
+
+        this.correctQuizNum = correctQuizNum;
+
+    }
 
 
 
-//    public int getCorrectQuizNum() {
-//
-//        return this.correctQuizNum;
-//
-//    }
+    public int getCorrectQuizNum() {
+
+        return this.correctQuizNum;
+
+    }
 
 }
